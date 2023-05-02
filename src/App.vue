@@ -356,6 +356,7 @@ h1 {
   z-index: 1; /* Add a z-index if needed */
   left: 50%; /* Center the snackbar */
   bottom: 30px; /* 30px from the bottom */
+  border-radius:20px;
 }
 
 /* Show the snackbar when clicking on a button (class added with JavaScript) */
